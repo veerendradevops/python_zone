@@ -1,0 +1,4 @@
+def hello_world():
+
+  print("hai this is my first function")
+hello_world()
