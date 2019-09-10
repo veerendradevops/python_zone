@@ -1,0 +1,9 @@
+Python allows us to not declare the function in the standerd manner,i.e by using the def keyword. Rather, the anonymous functions are declared by using lambda keyword. However, Lambda functions can accept any number of arguments, but they can return only one value in the form of expression.
+
+The anonymouse functions containes a small piece of code. It simulates inline functions of C and C++, but it is not exactly an inline function.
+
+The syntax to define an Anonymous function is given below.
+
+syntax:
+-----------
+lambda arguments : expression
